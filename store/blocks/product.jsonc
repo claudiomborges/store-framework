@@ -20,7 +20,8 @@
             "product-identifier.product",
             "product-price",
             "flex-layout.row#qty-sku",
-            "buy-button"
+            "buy-button",
+            "shipping-simulator"
         ],
         "props": {
             "verticalAlign": "middle",
@@ -29,7 +30,7 @@
     },
 
     "flex-layout.row#qty-sku": {
-        "children": ["sku-selector", "product-quantity", "shipping-simulator"]
+        "children": ["sku-selector", "product-quantity"]
     },
 
     "product-price": {
