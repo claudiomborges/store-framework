@@ -55,7 +55,7 @@
         "props": {
             "initialSelection": "empty",
             "showVariationsErrorMessage": true,
-            "thumbnailImage": "imagelLabel"
+            "showValueForVariation": "image"
         }
     }
 }
