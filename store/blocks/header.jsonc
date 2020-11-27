@@ -18,7 +18,7 @@
     },
 
     "header-row#main": {
-        "children": ["drawer", "logo", "header-spacer", "search-bar", "minicart", "login"],
+        "children": ["logo", "header-spacer", "search-bar", "minicart", "login"],
         "props": {
             "inverted": true,
             "sticky": true,
@@ -27,7 +27,7 @@
     },
 
     "header-row#main-mobile": {
-        "children": ["logo", "header-spacer", "minicart", "login"],
+        "children": ["drawer", "logo", "header-spacer", "minicart", "login"],
 
         "props": {
             "sticky": true,

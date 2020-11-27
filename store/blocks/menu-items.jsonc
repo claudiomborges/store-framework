@@ -5,10 +5,8 @@
             "highlight": true,
             "itemProps": {
                 "text": "Major Aplliances"
-            },
-            "orientation": "vertical"
-        },
-        "blocks": ["vtex.menu@2.x:submenu#major"]
+            }
+        }
     },
     "menu-item#small-appliances": {
         "props": {
